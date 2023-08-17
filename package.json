@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fuzzysort": "^2.0.4",
+    "puppeteer": "^21.0.3",
+    "string-similarity": "^4.0.4",
+    "xlsx": "^0.18.5"
+  }
+}
